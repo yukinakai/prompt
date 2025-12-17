@@ -4,9 +4,9 @@
     background: 
       main: '#FFFFFF'
       sub: '#F8F8F8'
-      accent: '#25726D - 強調したいスライドでの背景色。この場合、textは白（#FFFFFF）を使用。'
-    primary: '#3CBBB2'
-    secondary: '#AFE3DF'
+      accent: '${{primaryを濃くした色を採用}} - 強調したいスライドでの背景色。この場合、textは白（#FFFFFF）を使用。'
+    primary: '${{元記事から適当なカラーを選択}}'
+    secondary: '${{primaryに合わせて選択}}'
     gray: '#A8B1B6'
     text: 
       main: '#333333'
