@@ -79,10 +79,14 @@ OKになるまで調整を繰り返すこと。
 {タイトルの原題}\n{タイトルの和訳}\n{記事のURL}\n{要約}\n{公開日}
 
 ## 出力例
+```
+AI Accelerates Drug Discovery with New Method Halving Clinical Trial Timelines
 AIが新薬開発を加速、臨床試験期間を半減させる新手法を発表
 https://example.com/article/12345
 米スタンフォード大学の研究チームが、大規模言語モデルを活用して新薬候補の分子構造を予測するシステムを開発。従来数年かかっていた前臨床段階の期間を大幅に短縮できる可能性があるとし、製薬業界から大きな注目を集めている。
 2026-03-05
+```
+https://example.com/article/12345
 
 ## 禁止事項
 - 実在しない記事の捏造
